@@ -18,7 +18,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/nimshadnimzz/whatsapp-bot/fork)
 5. Now https://heroku.com/deploy?template=https://github.com/nimshadnimzz/whatsapp-bot copy this url and change nimshadnimzz with your github username and click GO<br>
-   <h3 align="center">Contact Me:</h3>
+   <h3 align="center">Follow me on insta:</h3>
 
 <p align="center">
 
@@ -29,7 +29,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <br>
    <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
-   <a href="https://wa.me/15067155967"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href="https://wa.me/15067155967"><img alt="WhatsApp" src="https://img.shields.io/badge/-Contact%20me-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
