@@ -1,5 +1,6 @@
 <div align="center">
-𝗗𝗜𝗡𝗢 𝗦𝗘𝗥 𝗣𝗥𝗜𝗩𝗔𝗧𝗘 𝗪𝗔𝗕𝗢𝗧
+  
+## DINO SER PRIVATE WAbot
   
 
 
