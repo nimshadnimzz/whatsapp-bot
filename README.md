@@ -1,7 +1,12 @@
-## Dino ser private WAbot
+<div align="center">
+𝗗𝗜𝗡𝗢 𝗦𝗘𝗥 𝗣𝗥𝗜𝗩𝗔𝗧𝗘 𝗪𝗔𝗕𝗢𝗧
+  
 
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+DINO+SER+WAbot+REPO;CREATED+BY+DINO;THIS+IS+A+PRIVATE+BOT;WITH+MORE+THAN+500+FEATURES)](https://git.io/typing-svg)
+ </a>
 
+</p>
 <div align="center">
 <img border-radius: 15px src="https://i.imgur.com/sz65S8J.jpeg" width="200" height="200"/>
    
